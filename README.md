@@ -1,5 +1,7 @@
 # Twitter Automation Tool
 
+![Screenshot](./ss.png)
+
 ## Project Overview
 
 The **Twitter Automation Tool** is a GUI-based application built using `tkinter`, designed to automate various Twitter actions such as liking, retweeting, commenting, following accounts, and more. It allows users to perform these actions based on tweet links, keywords, and user accounts. Additionally, it provides features like paraphrasing content using Google's Gemini AI model and posting tweets with optional image attachments.
